@@ -20,7 +20,7 @@ programming languages: python, sql, postgresql, javascript
 
 tools: git, github, docker, tyler technologies
 
-packages: pandas, geopandas
+packages: pandas, geopandas, matplotlib, scipy
 
 
 
